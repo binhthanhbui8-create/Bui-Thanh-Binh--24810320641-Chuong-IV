@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaiTap4_1_LoginForm", "BaiTap4_1_LoginForm\BaiTap4_1_LoginForm.csproj", "{B8529E90-693A-4512-B93F-5F2F58D50346}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaiTap4_2_DangKyHocVien", "BaiTap4_2_DangKyHocVien\BaiTap4_2_DangKyHocVien.csproj", "{0EE49193-4037-4DCF-A469-A7C6CE1B4902}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaiTap4_3_Calculator", "BaiTap4_3_Calculator\BaiTap4_3_Calculator.csproj", "{B714E11F-0F41-4D5B-81D4-E09AD1671014}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaiTap4_4_FastFood", "BaiTap4_4_FastFood\BaiTap4_4_FastFood.csproj", "{59B585AE-F26A-4A24-9CB7-57933FE757E7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaiTap4_5_ResponsiveForm", "BaiTap4_5_ResponsiveForm\BaiTap4_5_ResponsiveForm.csproj", "{00AA9D87-1B71-4402-A9A7-DEF53689FF52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8529E90-693A-4512-B93F-5F2F58D50346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8529E90-693A-4512-B93F-5F2F58D50346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8529E90-693A-4512-B93F-5F2F58D50346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8529E90-693A-4512-B93F-5F2F58D50346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EE49193-4037-4DCF-A469-A7C6CE1B4902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE49193-4037-4DCF-A469-A7C6CE1B4902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE49193-4037-4DCF-A469-A7C6CE1B4902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE49193-4037-4DCF-A469-A7C6CE1B4902}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B714E11F-0F41-4D5B-81D4-E09AD1671014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B714E11F-0F41-4D5B-81D4-E09AD1671014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B714E11F-0F41-4D5B-81D4-E09AD1671014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B714E11F-0F41-4D5B-81D4-E09AD1671014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59B585AE-F26A-4A24-9CB7-57933FE757E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B585AE-F26A-4A24-9CB7-57933FE757E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B585AE-F26A-4A24-9CB7-57933FE757E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B585AE-F26A-4A24-9CB7-57933FE757E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00AA9D87-1B71-4402-A9A7-DEF53689FF52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00AA9D87-1B71-4402-A9A7-DEF53689FF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00AA9D87-1B71-4402-A9A7-DEF53689FF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00AA9D87-1B71-4402-A9A7-DEF53689FF52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
