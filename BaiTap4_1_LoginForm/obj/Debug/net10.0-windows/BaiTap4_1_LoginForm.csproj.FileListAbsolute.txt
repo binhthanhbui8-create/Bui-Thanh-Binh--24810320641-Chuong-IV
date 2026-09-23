@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\.net\Chuong4_WinForms\BaiTap4_1_LoginForm\bin\Debug\net10.0-windows\BaiTap4_1_LoginForm.exe
+C:\Users\Admin\OneDrive\Desktop\.net\Chuong4_WinForms\BaiTap4_1_LoginForm\bin\Debug\net10.0-windows\BaiTap4_1_LoginForm.deps.json
+C:\Users\Admin\OneDrive\Desktop\.net\Chuong4_WinForms\BaiTap4_1_LoginForm\bin\Debug\net10.0-windows\BaiTap4_1_LoginForm.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\.net\Chuong4_WinForms\BaiTap4_1_LoginForm\bin\Debug\net10.0-windows\BaiTap4_1_LoginForm.dll
+C:\Users\Admin\OneDrive\Desktop\.net\Chuong4_WinForms\BaiTap4_1_LoginForm\bin\Debug\net10.0-windows\BaiTap4_1_LoginForm.pdb
+C:\Users\Admin\OneDrive\Desktop\.net\Chuong4_WinForms\BaiTap4_1_LoginForm\obj\Debug\net10.0-windows\BaiTap4_1_LoginForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\.net\Chuong4_WinForms\BaiTap4_1_LoginForm\obj\Debug\net10.0-windows\BaiTap4_1_LoginForm.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.net\Chuong4_WinForms\BaiTap4_1_LoginForm\obj\Debug\net10.0-windows\BaiTap4_1_LoginForm.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\.net\Chuong4_WinForms\BaiTap4_1_LoginForm\obj\Debug\net10.0-windows\BaiTap4_1_LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\.net\Chuong4_WinForms\BaiTap4_1_LoginForm\obj\Debug\net10.0-windows\BaiTap4_1_LoginForm.dll
+C:\Users\Admin\OneDrive\Desktop\.net\Chuong4_WinForms\BaiTap4_1_LoginForm\obj\Debug\net10.0-windows\refint\BaiTap4_1_LoginForm.dll
+C:\Users\Admin\OneDrive\Desktop\.net\Chuong4_WinForms\BaiTap4_1_LoginForm\obj\Debug\net10.0-windows\BaiTap4_1_LoginForm.pdb
+C:\Users\Admin\OneDrive\Desktop\.net\Chuong4_WinForms\BaiTap4_1_LoginForm\obj\Debug\net10.0-windows\BaiTap4_1_LoginForm.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\.net\Chuong4_WinForms\BaiTap4_1_LoginForm\obj\Debug\net10.0-windows\ref\BaiTap4_1_LoginForm.dll
